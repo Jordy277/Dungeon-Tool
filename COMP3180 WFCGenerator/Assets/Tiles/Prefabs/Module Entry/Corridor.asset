@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0363a5f2f0739b4fbf8ebb4fb4ae15c, type: 3}
+  m_Name: Corridor
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8115535119457952459, guid: 5ac97551e124bf74fa4528d64672b596, type: 3}
+  baseWeight: 1.2
